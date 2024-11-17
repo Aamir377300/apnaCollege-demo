@@ -1,3 +1,3 @@
 # apnaCollege-demo
 This is my first repo
-Author:- Khan
+Author:- My name is Khan.
